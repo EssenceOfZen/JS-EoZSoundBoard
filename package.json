@@ -1,0 +1,28 @@
+{
+  "name": "js-eoz-soundboard",
+  "version": "0.1.0",
+  "description": "JS Version of the EoZ Soundboard",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EssenceOfZen/JS-EoZSoundBoard.git"
+  },
+  "keywords": [
+    "eoz",
+    "sound",
+    "board"
+  ],
+  "author": "Essence of Zen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EssenceOfZen/JS-EoZSoundBoard/issues"
+  },
+  "homepage": "https://github.com/EssenceOfZen/JS-EoZSoundBoard#readme",
+  "dependencies": {
+    "electron": "^1.4.3"
+  }
+}

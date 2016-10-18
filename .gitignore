@@ -1,3 +1,10 @@
+# ignore some jetbrains stuff
+.idea/**/*.xml
+.idea/*.iml
+
+# except the run configurations...
+!.idea/runConfigurations/*.xml
+
 # Logs
 logs
 *.log
